@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS1 
 #include <stdio.h>
 #include <stdlib.h>
+#include <vld.h>
 struct S
 {
 	int n;
