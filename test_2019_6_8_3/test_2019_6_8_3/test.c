@@ -17,8 +17,11 @@ int main()
 	struct S s = { 0 };
 	/*fprintf(pf, "%s %s %d", "zhangsan", "lisi", 20);*/
 	/*fprintf(pf, "%s %d %f",s.name,s.age,s.i);*/
-	fscanf(pf, "%s %d %f", s.name, &(s.age), &(s.i));
-	printf("%s %d %f\n", s.name, s.age, s.i);
+	/*fscanf(pf, "%s %d %f", s.name, &(s.age), &(s.i));*/
+	/*fscanf(pf,"%s %d %f", s.name, &(s.age), &(s.i));
+	printf("%s %d %f\n", s.name, s.age, s.i);*/
+	fscanf(stdin, "%s %d %f", s.name, &(s.age), &(s.i));//针对所有流格式化的输入函数
+	fprintf(stdout,"%s %d %f\n", s.name, s.age, s.i);//针对所有流格式化的输出函数
 	fclose(pf);
 	pf = NULL;
 	system("pause");
