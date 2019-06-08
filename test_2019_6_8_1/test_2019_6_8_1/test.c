@@ -8,6 +8,12 @@ int main()
 	fputc('b', pf);
 	fputc('c', pf);*/
 	FILE *pf = fopen("test.txt", "r");
+	if (pf == NULL)
+	{
+		perror("fopen");
+		system("pause");
+		return 0;
+	}
 	printf("%c\n",fgetc(pf));
 	printf("%c\n", fgetc(pf));
 	printf("%c\n", fgetc(pf));
