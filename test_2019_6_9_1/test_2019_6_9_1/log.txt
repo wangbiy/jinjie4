@@ -1,0 +1,10 @@
+file:e:\碧瑶的代码\jinjie4\test_2019_6_9_1\test_2019_6_9_1\test.c line=10 date=Jun  9 2019 time=17:17:36 i=0
+file:e:\碧瑶的代码\jinjie4\test_2019_6_9_1\test_2019_6_9_1\test.c line=10 date=Jun  9 2019 time=17:17:36 i=1
+file:e:\碧瑶的代码\jinjie4\test_2019_6_9_1\test_2019_6_9_1\test.c line=10 date=Jun  9 2019 time=17:17:36 i=2
+file:e:\碧瑶的代码\jinjie4\test_2019_6_9_1\test_2019_6_9_1\test.c line=10 date=Jun  9 2019 time=17:17:36 i=3
+file:e:\碧瑶的代码\jinjie4\test_2019_6_9_1\test_2019_6_9_1\test.c line=10 date=Jun  9 2019 time=17:17:36 i=4
+file:e:\碧瑶的代码\jinjie4\test_2019_6_9_1\test_2019_6_9_1\test.c line=10 date=Jun  9 2019 time=17:17:36 i=5
+file:e:\碧瑶的代码\jinjie4\test_2019_6_9_1\test_2019_6_9_1\test.c line=10 date=Jun  9 2019 time=17:17:36 i=6
+file:e:\碧瑶的代码\jinjie4\test_2019_6_9_1\test_2019_6_9_1\test.c line=10 date=Jun  9 2019 time=17:17:36 i=7
+file:e:\碧瑶的代码\jinjie4\test_2019_6_9_1\test_2019_6_9_1\test.c line=10 date=Jun  9 2019 time=17:17:36 i=8
+file:e:\碧瑶的代码\jinjie4\test_2019_6_9_1\test_2019_6_9_1\test.c line=10 date=Jun  9 2019 time=17:17:36 i=9
